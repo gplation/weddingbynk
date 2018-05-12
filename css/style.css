@@ -428,8 +428,8 @@ body.sub-page .logo {margin: 110px 0 80px;background: url(../images/bg.jpg) fixe
 /* -------------------------------------Box 2---------------------------------- */
 /* ---------------------------------------------------------------------------- */
 .box-content.box-2 {border-bottom: 1px solid #DDD;border-top: 1px solid #DDD;}
-.box-content.box-2 .box-item{background-color: #F9F9F9;margin-bottom: 0px;border: 1px solid #eee;} 
-.box-content.box-2 .box-item .content{padding: 10px 30px 30px;} 
+.box-content.box-2 .box-item{background-color: #FFF2E6;margin-bottom: 0px;border: 1px solid #eee;} 
+.box-content.box-2 .box-item .content{padding: 10px 30px 10px;} 
 .box-content.box-2 .box-item .content h3{font-weight: 500;color: #DE5781;font-size: 24px;margin-bottom: 10px;} 
 .box-content.box-2 .box-item .content span{color: #bbb;font-size: 15px;}
 
