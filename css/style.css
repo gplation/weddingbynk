@@ -383,8 +383,8 @@ body.sub-page .logo {margin: 110px 0 80px;background: url(../images/bg.jpg) fixe
 /* ---HomePage--- */
 .box-content {padding: 15px 0 100px 0;}
 .box-content .heading{margin-bottom: 50px; text-align: center;}
-.box-content.box-style-1{background-attachment:fixed; background-image: url(../images/bg-1.jpg); background-color: #222;color:#fff;}
-.box-content.box-style-2{background-attachment:fixed; background-image: url(../images/bg-2.jpg); background-color: #222;color:#fff;}
+.box-content.box-style-1{background-attachment:fixed; background-image: url(../images/bg-1.jpg); background-repeat: no-repeat; background-size: cover; background-color: #222;color:#fff;}
+.box-content.box-style-2{height: 250px; margin-bottom: 0px; padding: 20px 0 0 0; background-attachment:fixed; background-repeat: no-repeat; background-size: cover; background-image: url(../images/bg-2.jpg); background-color: #222;color:#fff;}
 
 /* ---------------------------------------------------------------------------- */
 /* -------------------------------------Box 0---------------------------------- */
@@ -549,10 +549,9 @@ body.sub-page .logo {margin: 110px 0 80px;background: url(../images/bg.jpg) fixe
 /* -------------------------------------Box 4---------------------------------- */
 /* ---------------------------------------------------------------------------- */
 .box-content.box-4 {}
-.box-content.box-4 h2{color:#fff;}
-.box-content.box-4 h3{color:#fff;}
-.box-content.box-4 .box-item {font-family: 'Hanna'; margin-top: 30px;border-bottom: 1px solid #fff;border-top: 1px solid #fff;padding: 30px 0px 10px 0px;color: #fff;}
-.box-content.box-4 .intro{font-size: 20px;}
+.box-content.box-4 h3{color:#000;}
+.box-content.box-4 .box-item {font-family: 'Hanna'; margin-top: 30px;border-bottom: 1px solid #fff;border-top: 1px solid #fff;padding: 30px 0px 10px 0px;color: #000;}
+.box-content.box-4 .intro{color: #000; font-size: 20px;}
 
 /* ---------------------------------------------------------------------------- */
 /* -------------------------------------Box 5---------------------------------- */
